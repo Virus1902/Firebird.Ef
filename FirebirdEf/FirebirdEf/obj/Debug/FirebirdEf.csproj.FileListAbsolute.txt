@@ -1,0 +1,16 @@
+F:\_Dev\FirebirdEf\FirebirdEf\FirebirdEf\bin\Debug\FirebirdEf.exe.config
+F:\_Dev\FirebirdEf\FirebirdEf\FirebirdEf\bin\Debug\FirebirdEf.exe
+F:\_Dev\FirebirdEf\FirebirdEf\FirebirdEf\bin\Debug\FirebirdEf.pdb
+F:\_Dev\FirebirdEf\FirebirdEf\FirebirdEf\obj\Debug\FirebirdEf.csprojResolveAssemblyReference.cache
+F:\_Dev\FirebirdEf\FirebirdEf\FirebirdEf\obj\Debug\FirebirdEf.Properties.Resources.resources
+F:\_Dev\FirebirdEf\FirebirdEf\FirebirdEf\obj\Debug\FirebirdEf.csproj.GenerateResource.Cache
+F:\_Dev\FirebirdEf\FirebirdEf\FirebirdEf\obj\Debug\FirebirdEf.exe
+F:\_Dev\FirebirdEf\FirebirdEf\FirebirdEf\obj\Debug\FirebirdEf.pdb
+F:\_Dev\Firebird\FirebirdEf\FirebirdEf\bin\Debug\FirebirdEf.exe.config
+F:\_Dev\Firebird\FirebirdEf\FirebirdEf\bin\Debug\FirebirdEf.exe
+F:\_Dev\Firebird\FirebirdEf\FirebirdEf\bin\Debug\FirebirdEf.pdb
+F:\_Dev\Firebird\FirebirdEf\FirebirdEf\obj\Debug\FirebirdEf.csprojResolveAssemblyReference.cache
+F:\_Dev\Firebird\FirebirdEf\FirebirdEf\obj\Debug\FirebirdEf.Properties.Resources.resources
+F:\_Dev\Firebird\FirebirdEf\FirebirdEf\obj\Debug\FirebirdEf.csproj.GenerateResource.Cache
+F:\_Dev\Firebird\FirebirdEf\FirebirdEf\obj\Debug\FirebirdEf.exe
+F:\_Dev\Firebird\FirebirdEf\FirebirdEf\obj\Debug\FirebirdEf.pdb
